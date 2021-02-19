@@ -1,1 +1,2 @@
-# EasySpacy
+# EasySpacy Cahier des charges
+
