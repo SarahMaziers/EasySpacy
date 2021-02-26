@@ -78,7 +78,7 @@ Landing page -> cette zone la presente le concept et doit pouvoir faire arriver 
 - Sur insta fonctionne en slide se passerait comme ça et un texte global en dessous
 
 ## Plan de site
-- Landing page avec une brève présentation et un CTA menant vers les capsules qui se trouveraient plus bas sur cette même page
+- Landing page avec une brève présentation avec un lien menant vers la page "à propos" et un bouton menant vers les capsules qui se trouveraient plus bas sur cette même page
 - Onglet "à propos de nous" où on expliquerait de manière plus exhaustive en quoi consite le projet et qui est à la base de celui-ci
 - Onglet "News"
   -Sur cette page, on retrouvera toute une liste de news filtrable se présentant avec une photo d'illustration à gauche et les quelques premières lignes; c'est seulement en cliquant vraiment dessus que les utilisateurs auront acces à l'entierete de la news.
@@ -88,4 +88,5 @@ Landing page -> cette zone la presente le concept et doit pouvoir faire arriver 
 
 
 Justifier nos choix pour éviter les demandes de modifications, le client doit comprendre pourquoi on pose tel ou tel choix.
+Penser à la navigation transversale
 
