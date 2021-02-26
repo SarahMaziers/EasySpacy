@@ -1,5 +1,6 @@
 # EasySpacy Cahier des charges
 
+## Le brief
 - Le projet
 Sarah Joiret est une astrophysicienne et Léo Cotteleer un ingénieur aérospaciale
 
