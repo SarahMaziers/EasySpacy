@@ -78,6 +78,9 @@ Landing page -> cette zone la presente le concept et doit pouvoir faire arriver 
 - Sur insta fonctionne en slide se passerait comme ça et un texte global en dessous
 
 ## Plan de site
+### Concept - look and feel général
+
+### Les pages
 - Landing page avec une brève présentation avec un lien menant vers la page "à propos" et un bouton menant vers les capsules qui se trouveraient plus bas sur cette même page
 - Onglet "à propos de nous" où on expliquerait de manière plus exhaustive en quoi consite le projet et qui est à la base de celui-ci
 - Onglet "News"
@@ -86,7 +89,22 @@ Landing page -> cette zone la presente le concept et doit pouvoir faire arriver 
   - Formulaire de contact avec suggestion de raison de contact (message, avis, question, suggestion, thème à proposer, etc)
 - Page Média et Presse
 
+### Stratégie
+- Utilisation d'un breadcrumb* pour que l'utilisateur puisse suivre son cheminement à travers le site
+- Implémentation d'une barre de recherche dans le header* proposant des suggestions de recherche
+- Implémentation du plan de site dans le footer*
+- Chaque news a sa propre page. Dans cette page, on retrouvera des liens menant vers d'autres news mais il y aura aussi la possibilité de revenir en arrière grâce au breadcrumb. En fonction du thème de la news (astophysique, aérospacial), un code couleur lui sera appliqué
+- Chaue post/capsule a également sa propre page. Il sera possible de passer au post précédent ou suivant à partir de cette même page via un slider. Il y aura aussi des suggestions de lecture en fin de post
+- 
+
+
+
+Footer: pied de page
+
+
+
 
 Justifier nos choix pour éviter les demandes de modifications, le client doit comprendre pourquoi on pose tel ou tel choix.
 Penser à la navigation transversale
+Définir un public cible avant de parler des objectifs et du plan de site
 
