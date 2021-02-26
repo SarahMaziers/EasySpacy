@@ -1,5 +1,7 @@
 # EasySpacy Cahier des charges
 
+Le moodboard: https://app.milanote.com/1LfyyW1m2dV6dE
+
 ## Le brief
 - Le projet
 Sarah Joiret est une astrophysicienne et Léo Cotteleer un ingénieur aérospaciale
@@ -8,6 +10,7 @@ Ils ont créé un compte commun sur instagram appelé EasySpacy.
 Le but de cette page est de communiquer sur des sujets scientifiques liés à l'aérospatiale, et à l'astrophysique. Ils essaient de vulgariser le contenu pour que celui-ci soit abordable par tout le monde.
 
 - Les objectifs du projet
+
 partager des informations scientifiques et que celles-ci soient compréhensibles pour tous
 
 Leur contenu se présente sous forme de petites capsules ludiques de quelques slides.
