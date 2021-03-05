@@ -87,7 +87,7 @@ Landing page -> cette zone la presente le concept et doit pouvoir faire arriver 
 
 ## Plan de site
 ### Concept - look and feel général
-Le look du site sera un look épuré et simple utilisant diverses teintes de bleus (palette proposée par EasySpacy) et des polices sobres comme Open Sans pour le corps du texte. Il aura pour thème
+Le look du site sera un site de vulgarisation scientifique sur l'astrophysique et l'aérospacial au look épuré et simple utilisant diverses teintes de bleus (palette proposée par EasySpacy) et des polices sobres comme Open Sans pour le corps du texte.
 
 ### Les pages
 - Landing page avec une brève présentation avec un lien menant vers la page "à propos" et un bouton menant vers les capsules qui se trouveraient plus bas sur cette même page
